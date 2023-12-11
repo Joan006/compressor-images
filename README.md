@@ -1,4 +1,4 @@
-## compressor-images
+#### compressor-images
 ## Programa que comprime imganes. :)
 #Crear un entorno virtual para ejecurar el script
 #- $ python -m venv venv
